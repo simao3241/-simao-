@@ -42,7 +42,7 @@ I'm a Portuguese developer and student trying to make my own social network. You
 
 ### 📊 Stats
 
-![</simao>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=simao3241&show_icons=true&theme=onedark)
+![</simao>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=simao3241&count_private=true&show_icons=true&theme=dracula)
 
 #
 
