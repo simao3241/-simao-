@@ -4,6 +4,8 @@
 
 I'm a Portuguese developer and student trying to make my own social network. You probably won't see many repositories because they are almost all private, but I promise I have good projects developed.
 
+### [My Portfolio](https://simao3241.github.io/Portfolio/)
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=SkyCorporation+since+2021;SkyGames+By+%3C%2Fsimao%3E;SkyDev+By+%3C%2Fsimao%3E" alt="Typing SVG" /></a>
 </p>
@@ -49,6 +51,3 @@ I'm a Portuguese developer and student trying to make my own social network. You
 <details open>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F74242&width=500&lines=Thinking+a+good+description+to+put+here!" alt="Typing SVG" /></a>
-
-[Portfolio](https://simao3241.github.io/Portfolio/)
- 
