@@ -50,4 +50,5 @@ I'm a Portuguese developer and student trying to make my own social network. You
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F74242&width=500&lines=Thinking+a+good+description+to+put+here!" alt="Typing SVG" /></a>
 
-[website]: https://simao3241.github.io/Portfolio/
+[Portfolio](https://simao3241.github.io/Portfolio/)
+ 
